@@ -3,6 +3,11 @@
     padding: 0;
     box-sizing: border-box;
 }
+.home::before{
+    display: flex;
+    content: '';
+    height: 60px;
+}
 section{
     padding: 30px 50px;
 }
