@@ -101,7 +101,7 @@ header .container nav a:hover{
     grid-gap: 20px;;
 }
 .message .container .order_img img{
-    max-width: 500px;
+    max-width: 350px;
 }
 
 .message .container .form-container form h2{
